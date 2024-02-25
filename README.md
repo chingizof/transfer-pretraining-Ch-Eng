@@ -1,2 +1,3 @@
 # transfer-pretraining-Ch-Eng
-English - Cherokee neural translation model, with knowledge transfer for encoder and decoded from Russian-English pair. 
+
+This repository hosts an English-Cherokee Neural Machine Translation (NMT) model, leveraging advanced knowledge transfer techniques from a pre-trained Russian-English model. Both the encoder and decoder components of our model have been enriched with linguistic features and structural insights gained from the Russian-English language pair, aiming to enhance translation quality and fluency for the low-resource Cherokee language. This approach not only addresses the challenge of limited Cherokee-English parallel corpora but also sets a new precedent for leveraging cross-lingual transfer learning in NMT systems.
