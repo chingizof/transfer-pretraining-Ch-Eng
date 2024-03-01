@@ -3,6 +3,7 @@ from transformers import AutoTokenizer, AutoModelForSeq2SeqLM
 #if your model is saved in "model" folder
 # tokenizer = AutoTokenizer.from_pretrained("./model/")
 # model = AutoModelForSeq2SeqLM.from_pretrained("./model/")
+#hfhfhf`:wq
 
 tokenizer = AutoTokenizer.from_pretrained("Helsinki-NLP/opus-mt-ru-en")
 model = AutoModelForSeq2SeqLM.from_pretrained("Helsinki-NLP/opus-mt-ru-en")
