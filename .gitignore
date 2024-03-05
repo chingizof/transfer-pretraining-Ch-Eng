@@ -1,2 +1,2 @@
 #ignore model 
-/hugging-face/model/
+src/hugging-face/model/
